@@ -7,6 +7,6 @@
 <p>I &#9829; all things GIS, cartography, and data.  Here are a few of the GIS  projects that I created:</p>
 <a href="https://geospatialscience601770360.wordpress.com/">My GIS Portfolio<a/>
 
-<p> Here are
+<p>
 </body>
 </html>
