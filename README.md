@@ -1,10 +1,10 @@
-
+<img src="C:\Users\Kaiea\Documents\JMP 3630\Portfolio Banner.png">
 
 <!DOCTYPE html>
 <html>
 <body>
 
-<img src="C:\Users\Kaiea\Documents\JMP 3630\Portfolio Banner.png">
+
 
 <h1>Hello, My name is Kaiea</h1>
 <p>I am a Technical Writer and a Geospatial Science enthusiast.</p>
